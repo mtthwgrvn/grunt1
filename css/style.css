@@ -589,6 +589,9 @@ h1, h2, h3, h4, h5, h6 {
   .site-blocks-cover .intro {
     z-index: 3;
     position: relative; }
+    .heading {
+      color: #bd1220;
+    }
     .site-blocks-cover .intro .heading {
       margin-left: -150px; }
       @media (max-width: 991.98px) {
